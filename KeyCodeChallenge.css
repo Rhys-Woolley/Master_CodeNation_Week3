@@ -1,0 +1,21 @@
+* {
+    background-color: lightblue;
+}
+
+#Center {
+    text-align: center;
+}
+#Input {
+    margin-left: 500px;
+    border: solid;
+    
+}
+
+.Generator {
+    text-align: center;
+    box-sizing: border-box;
+    border: hidden;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
